@@ -1,0 +1,54 @@
+
+tgbot.png
+size: 1761,1895
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1306, 990
+  size: 903, 453
+  orig: 903, 453
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1177, 257
+  size: 531, 80
+  orig: 531, 80
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 1173, 587
+  orig: 1173, 587
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1306, 339
+  size: 649, 397
+  orig: 649, 397
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 591
+  size: 1302, 1302
+  orig: 1302, 1302
+  offset: 0, 0
+  index: -1
+
+tgbot2.png
+size: 756,1360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 2, 2
+  size: 752, 1356
+  orig: 752, 1356
+  offset: 0, 0
+  index: -1
